@@ -1,0 +1,6 @@
+short_term:
+  retain: 5 turns
+  summarize_after: 10 minutes
+long_term:
+  cluster_every: weekly
+  summary_length: 50 tokens
